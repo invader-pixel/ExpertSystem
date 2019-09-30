@@ -1,0 +1,12 @@
+Visual Studio
+JetBrains PyCharm
+JetBrains CLion
+JetBrains PhpStorm
+JetBrains WebStorm
+Eclipse
+Codeanywhere
+Cloud9
+Brackets
+Sublime Text 3
+NetBeans
+CodeBlocks
