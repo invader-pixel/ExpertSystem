@@ -1,0 +1,1 @@
+IIS (Internet Information Services) Ч проприетарный набор серверов дл€ нескольких служб »нтернета от компании Microsoft. IIS входит в состав Visual Studio
